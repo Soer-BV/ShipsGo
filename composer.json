@@ -1,0 +1,27 @@
+{
+  "name": "soerbv/shipsgo",
+  "description": "A PHP Client for ShipsGo API",
+  "type": "library",
+  "keywords": [
+    "shipsgo",
+    "api",
+    "php"
+  ],
+  "homepage": "https://www.soer.nl",
+  "authors": [
+    {
+      "name": "Thijmen Kort",
+      "email": "t.kort@soer.nl"
+    }
+  ],
+  "require": {
+    "php": ">=8.0.0",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "SoerBV\\Api\\": "src"
+    }
+  }
+}
