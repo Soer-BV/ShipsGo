@@ -28,3 +28,9 @@ Get Voyage Data:
 $data = $client->getVoyageData('CONTAINER_NUMBER');
 print_r(json_decode($data));
 ````
+
+### Endpoints 
+The following endpoints are supported: 
+- PostCustomContainerFormWithBl
+- PostCustomContainerForm
+- GetContainerInfo
