@@ -1,6 +1,6 @@
 <?php
 
-namespace SoerBV\Api
+namespace SoerBV\Shipsgo;
   
 class Exception extends \Exception
 {
