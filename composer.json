@@ -1,5 +1,6 @@
 {
   "name": "soerbv/shipsgo",
+   "license": "MIT",
   "description": "A PHP Client for ShipsGo API",
   "type": "library",
   "keywords": [
